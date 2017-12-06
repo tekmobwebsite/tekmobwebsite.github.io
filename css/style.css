@@ -2235,7 +2235,7 @@ img.sticky-close {
 	margin-right: 10px;
 }
 .live-chat-message-content {
-	color: #fff;
+	color: #000;
 }
 .live-chat-overlay {
 	background: rgba(0, 0, 0, 0.4);
@@ -2272,7 +2272,7 @@ img.sticky-close {
     font-weight: 700;
 }
 .live-chat-userame-wrapper {
-	background: #f9f6e7;
+	background: #2a2d32;
 	height: 100%;
 	width: 100%;
 	top: 0;
