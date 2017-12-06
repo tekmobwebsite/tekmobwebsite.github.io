@@ -1394,9 +1394,15 @@ input:focus + .slider {
 	display: table;
 	margin: 0 auto 15px auto;
 	padding: 10px 20px;
-
-	position: relative;
-	overflow: hidden;
+    background: #5d5d70;
+    box-shadow: inset 0 0 0 3px rgba(255,255,255,0.1);
+    -webkit-box-shadow: inset 0 0 0 3px rgba(255,255,255,0.1);
+    -moz-box-shadow: inset 0 0 0 3px rgba(255,255,255,0.1);
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    position: relative;
+    overflow: hidden;
 }
 #r-s-img-wrapper, #r-s-img-wrapper-2  {
 	top: -100px;
