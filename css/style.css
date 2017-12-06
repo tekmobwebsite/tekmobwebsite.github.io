@@ -1463,11 +1463,11 @@ input:focus + .slider {
 }
 .r-v-button {
     height: 70px;
-    background: #70b9aa;
-    background: -moz-linear-gradient(top, #70b9aa 0%, #70b9aa 50%, #64b1a1 50%, #64b1a1 100%);
-    background: -webkit-linear-gradient(top, #70b9aa 0%,#70b9aa 50%,#64b1a1 50%,#64b1a1 100%);
-    background: linear-gradient(to bottom, #70b9aa 0%,#70b9aa 50%,#64b1a1 50%,#64b1a1 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#70b9aa', endColorstr='#64b1a1',GradientType=0 );
+    background: #b97070;
+    background: -moz-linear-gradient(top, #b97070 0%, #b97070 50%, #b16464 50%, #b16464 100%);
+    background: -webkit-linear-gradient(top, #b97070 0%,#b97070 50%,#b16464 50%,#b16464 100%);
+    background: linear-gradient(to bottom, #b97070 0%,#b97070 50%,#b16464 50%,#b16464 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b97070', endColorstr='#b16464',GradientType=0 );
     box-shadow: inset 0 3px 0 0 rgba(255,255,255,0.1);
     -webkit-box-shadow: inset 0 3px 0 0 rgba(255,255,255,0.1);
     -moz-box-shadow: inset 0 3px 0 0 rgba(255,255,255,0.1);
