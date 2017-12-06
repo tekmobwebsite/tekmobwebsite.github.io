@@ -1136,7 +1136,7 @@ input:focus + .slider {
 .generator-panel-content {
     padding: 60px 77.5px 50px;
     min-height: 250px;
-    background: #f9f6e7;
+    background: #2a2d32;
     position: relative;
     border: 1px solid #818db2;
     -webkit-border-bottom-right-radius: 3px;
